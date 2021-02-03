@@ -1,11 +1,11 @@
 var js2xmlparser = require('js2xmlparser');
-var msg_id = 1;
-var mos_ID = "PLAYCAST.RIO.BAND.MOS";
-var ncs_id = "SBDRJ-APP010";
-var parseString = require('xml2js').parseString;
-var to_json = require('xmljson').to_json;
-var xmlJsConverter = require('xml-js-converter');
-var utf8 = require('utf8');
+// var msg_id = 1;
+// var mos_ID = "PLAYCAST.RIO.BAND.MOS";
+// var ncs_id = "SBDRJ-APP010";
+// var parseString = require('xml2js').parseString;
+// var to_json = require('xmljson').to_json;
+// var xmlJsConverter = require('xml-js-converter');
+// var utf8 = require('utf8');
 var iconv  = require('iconv-lite');
 
 
